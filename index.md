@@ -1,6 +1,6 @@
 # Dr. Mohsen Rahmani
 **Ph.D., Associate Professor of Computer Engineering**  
-Kingston, Ontario, Canada  
+  
 📧 [mohsen.rahmani@gmail.com](mailto:mohsen.rahmani@gmail.com)  
 🌐 [Personal Webpage](http://comp.araku.ac.ir/pages/8/mohsen-rahmani) | [Google Scholar](https://scholar.google.com)
 
