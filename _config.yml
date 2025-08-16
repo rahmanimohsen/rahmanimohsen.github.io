@@ -33,13 +33,13 @@ author:
 
   # Academic websites
   academia         : "https://eng.araku.ac.ir/en/web/comp/-/rahmani"
-#  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-#  inspire-hep      : # URL
-#  impactstory      : # URL
+  inspire-hep      : # URL
+  impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-6890-192X"
-#  semantic         : # URL
-#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  semantic         : # URL
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Mohsen-Rahmani-8"
   scopus           : # URL
 
