@@ -12,5 +12,3 @@ I am an engineer, teacher and researcher with 15+ years of experience in teachin
 My research focuses on scalable AI systems, with algorithms deployed in commercial products. I have pulications in top-tier venues (IEEE, ACM, Elsevier).
 
 Beyond academia, I collaborate with industry partners to solve practical challenges.
-
-**Interests**: Data Science, Neural Networks, Publications.  
