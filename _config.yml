@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Mohsen Rahmani Personal Page"
+title                    : "Mohsen Rahmani"
 title_separator          : "-"
 name                     : &name "Mohsen Rahmani"
 description              : &description "University Lecturer | AI/ML researcher | Computer Engineer"
@@ -26,9 +26,9 @@ author:
   name             : "Mohsen Rahmani"
   pronouns         : # example: "she/her"  
   
-  bio              : "Computer Engineer, University teacher, Researcher"
-  location         : "Arak-Iran"
-  employer         : "Arak University"
+  bio              : "Computer Engineer, University Teacher, Researcher"
+  location         : # "Arak-Iran"
+  employer         : # "Arak University"
   uri              : # URL
   email            : "mohsen.rahmani@gmail.com" 
 
